@@ -1,7 +1,7 @@
 # Troubleshooting IPv6 with Wireshark 
 
 ## Local Workstation Setup
-Install Wireshark on your platform of choice.   Can download from https://www.wireshark.org/#download
+Install Wireshark on your platform of choice.   Download from https://www.wireshark.org/#download
 
 ------
 
